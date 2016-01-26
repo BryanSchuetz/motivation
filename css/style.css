@@ -29,7 +29,9 @@ body {
 
 body, input {
   display: -webkit-flex;
-  font-family: 'Avenir', 'helvetica neue', helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.7rem;
 }
 
 .timeLeft-label {
