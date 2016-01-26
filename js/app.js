@@ -23,7 +23,7 @@ App.fn.renderAge = function(timeLeft){
   var timeLeft = countdown(new Date(now.getFullYear(), now.getMonth(), now.getDate(), 24)).toString();
 
   requestAnimationFrame(function(){
-    this.html(this.view('age')({
+    this.html(this.view('timeLeft')({
       timeLeft: timeLeft,
     }));
   }.bind(this));

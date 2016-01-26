@@ -1,7 +1,4 @@
-Motivation
+Motivation Reminder
 ========
 
-Your age.
-
-
-![](screenshot.png)
+There's not much time, don't waste it wading through other people's crap online.
